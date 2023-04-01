@@ -1,0 +1,13 @@
+[
+    {
+        "CompanyName": "RED BUS",
+        "busType": "Multi AXLE AC",
+        "busNumber": "TN 27 110099",
+        "startCity": "Chennai",
+        "destination": "bangalore",
+        "totalSeats": "36",
+        "availableSeats": "20",
+        "pricePerSeat": "1000",
+        "date": "22/08/2020"
+    }
+]
